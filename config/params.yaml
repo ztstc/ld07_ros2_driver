@@ -1,0 +1,5 @@
+ld07_node:
+  ros__parameters:
+    enable_scan: true
+    enable_cloud: true
+    autostart: true
